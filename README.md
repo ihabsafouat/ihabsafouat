@@ -3,8 +3,8 @@
 I'm an aspiring **MLOps Engineer** passionate about the intersection of **Machine Learning, DevOps, and Cloud Engineering**.  
 Currently sharpening my skills in building reliable, scalable, and automated ML systems 🚀
 
-# 💫 About Me:
-💼 About Me<br><br>- 🎯 Career Goal: Become a proficient MLOps/DevOps Engineer for ML systems<br>- 🧠 I’m currently learning:<br>  - ML Model Deployment (Docker, FastAPI, Streamlit)<br>  - CI/CD with GitHub Actions<br>  - Infrastructure as Code (Terraform, Ansible)<br>  - Kubernetes for orchestration<br>  - Monitoring (Prometheus, Grafana)<br>- 🛠 Tools & Technologies:<br>  `Python` • `Linux` • `Docker` • `Kubernetes` • `MLflow` • `Airflow` • `AWS` • `GitHub Actions`
+# 💼 About Me:
+<br>- 🎯 Career Goal: Become a proficient MLOps/DevOps Engineer for ML systems<br>- 🧠 I’m currently learning:<br>  - ML Model Deployment (Docker, FastAPI, Streamlit)<br>  - CI/CD with GitHub Actions<br>  - Infrastructure as Code (Terraform, Ansible)<br>  - Kubernetes for orchestration<br>  - Monitoring (Prometheus, Grafana)<br>- 🛠 Tools & Technologies:<br>  `Python` • `Linux` • `Docker` • `Kubernetes` • `MLflow` • `Airflow` • `AWS` • `GitHub Actions`
 
 
 ## 🌐 Socials:
