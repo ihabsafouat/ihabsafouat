@@ -20,6 +20,30 @@ Currently sharpening my skills in building reliable, scalable, and automated ML 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ihabsafouat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **ML Pipeline Automation** | Built a reproducible ML pipeline using MLflow & Airflow | Python, MLflow, Airflow |
+| **Weather Data ETL** | Automated data pipeline for collecting and cleaning weather data | Python, Pandas, Crontab |
+| **MLOps Portfolio** | Personal portfolio showcasing deployed models and CI/CD setup | FastAPI, Docker, GitHub Actions |
+
+➡️ *More projects in progress… stay tuned!*
+
+---
+
+## 🌍 Let's Connect!
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ihab-safouat-670993328/)
+- [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ihabsafouat)
+
+---
+
+> “Obsessed with automation. Inspired by impact.”  
+> _– Me (and probably every MLOps engineer ever)_
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
